@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dread665, begimmer in development
+- 👋 Hi, I’m @dread665, beginner in development
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning python,javascript,mysql
 - 💞️ I’m looking to collaborate on helping others
